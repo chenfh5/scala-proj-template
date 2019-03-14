@@ -7,3 +7,4 @@
 - clone this repo(scala-proj-template) in local
 - cut `scala-proj-template` directories and paste to the target directory
 - remove this repo(scala-proj-template) in local
+- rename `artifactId` in pom file
